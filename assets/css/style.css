@@ -1,0 +1,13 @@
+/* 
+custom style
+*/
+
+#cover {
+    background: #222 url('../images/sky-night.jpg') no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+#main{
+    margin-top: 15%;;
+}
